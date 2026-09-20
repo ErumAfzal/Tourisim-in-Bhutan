@@ -218,7 +218,7 @@ def train_model(data):
 data = generate_synthetic_data()
 model, metrics = train_model(data)
 
-st.title("🌿 Student Wellbeing Support Demo — Bhutan")
+st.title("Student Wellbeing in Bhutan")
 st.caption(
     "A beginner machine-learning project using 800 fictional records"
 )
