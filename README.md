@@ -105,7 +105,7 @@ The application contains four tabs:
 3. **Prediction demo** – allows users to enter one fictional profile.
 4. **Model results** – presents evaluation metrics and the confusion matrix.
 
-## Installation and Local Use
+## Installation and Local Use (if created locally)
 
 ### 1. Download or clone the repository
 
@@ -219,9 +219,9 @@ Include screenshots of:
 5. Confusion matrix
 6. Classification report
 
-## Suggested Viva Questions
+## Suggested Questions to Answer
 
-1. Why was logistic regression selected?
+1. Why was the model(logistic regression) selected?
 2. Why is the dataset divided into training and testing sets?
 3. What does one-hot encoding do?
 4. Why are numeric variables standardized?
