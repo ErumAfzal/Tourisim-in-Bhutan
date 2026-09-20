@@ -8,7 +8,7 @@ This is a SINGLE-FILE Streamlit application designed for an introductory
 Machine Learning / AI application-development lesson.
 
 Students can learn how to:
-1. Define a real-world problem.
+1. Define a real-world problem
 2. Retrieve data from the internet.
 3. Inspect and clean data.
 4. Perform exploratory data analysis (EDA).
